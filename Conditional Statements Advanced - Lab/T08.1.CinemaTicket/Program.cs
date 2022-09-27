@@ -15,13 +15,16 @@ namespace CinemaTicketSwitchCase
                 case "Friday":
                     Console.WriteLine("12");
                     break;
+                    
                 case "Wednesday":
                 case "Thursday":
                     Console.WriteLine("14");
                     break;
+                    
                 case "Saturday":
                     Console.WriteLine("16");
                     break;
+                    
                 case "Sunday":
                     Console.WriteLine("16");
                     break;
