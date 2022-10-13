@@ -1,4 +1,5 @@
 ﻿using System;
+using static System.Net.Mime.MediaTypeNames;
 
 namespace _01._Read_Text
 {
@@ -6,7 +7,12 @@ namespace _01._Read_Text
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            string text = Console.ReadLine();
+            while (text != "Stop")
+            {
+                Console.WriteLine(text);
+                text = Console.ReadLine();
+            }
         }
     }
 }
