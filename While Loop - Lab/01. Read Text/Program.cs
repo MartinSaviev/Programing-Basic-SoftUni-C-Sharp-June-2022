@@ -1,5 +1,5 @@
 ﻿using System;
-using static System.Net.Mime.MediaTypeNames;
+
 
 namespace _01._Read_Text
 {
