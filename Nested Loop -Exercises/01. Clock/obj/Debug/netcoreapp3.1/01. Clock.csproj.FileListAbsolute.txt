@@ -1,0 +1,14 @@
+D:\C# Basic Programing Cours\Nested Loops - Lab\01. Clock\bin\Debug\netcoreapp3.1\01. Clock.exe
+D:\C# Basic Programing Cours\Nested Loops - Lab\01. Clock\bin\Debug\netcoreapp3.1\01. Clock.deps.json
+D:\C# Basic Programing Cours\Nested Loops - Lab\01. Clock\bin\Debug\netcoreapp3.1\01. Clock.runtimeconfig.json
+D:\C# Basic Programing Cours\Nested Loops - Lab\01. Clock\bin\Debug\netcoreapp3.1\01. Clock.runtimeconfig.dev.json
+D:\C# Basic Programing Cours\Nested Loops - Lab\01. Clock\bin\Debug\netcoreapp3.1\01. Clock.dll
+D:\C# Basic Programing Cours\Nested Loops - Lab\01. Clock\bin\Debug\netcoreapp3.1\01. Clock.pdb
+D:\C# Basic Programing Cours\Nested Loops - Lab\01. Clock\obj\Debug\netcoreapp3.1\01. Clock.csproj.AssemblyReference.cache
+D:\C# Basic Programing Cours\Nested Loops - Lab\01. Clock\obj\Debug\netcoreapp3.1\01. Clock.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Basic Programing Cours\Nested Loops - Lab\01. Clock\obj\Debug\netcoreapp3.1\01. Clock.AssemblyInfoInputs.cache
+D:\C# Basic Programing Cours\Nested Loops - Lab\01. Clock\obj\Debug\netcoreapp3.1\01. Clock.AssemblyInfo.cs
+D:\C# Basic Programing Cours\Nested Loops - Lab\01. Clock\obj\Debug\netcoreapp3.1\01. Clock.csproj.CoreCompileInputs.cache
+D:\C# Basic Programing Cours\Nested Loops - Lab\01. Clock\obj\Debug\netcoreapp3.1\01. Clock.dll
+D:\C# Basic Programing Cours\Nested Loops - Lab\01. Clock\obj\Debug\netcoreapp3.1\01. Clock.pdb
+D:\C# Basic Programing Cours\Nested Loops - Lab\01. Clock\obj\Debug\netcoreapp3.1\01. Clock.genruntimeconfig.cache
