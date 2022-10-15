@@ -1,0 +1,14 @@
+D:\C# Basic Programing Cours\Nested Loops - Lab\03. Combinations\bin\Debug\netcoreapp3.1\03. Combinations.exe
+D:\C# Basic Programing Cours\Nested Loops - Lab\03. Combinations\bin\Debug\netcoreapp3.1\03. Combinations.deps.json
+D:\C# Basic Programing Cours\Nested Loops - Lab\03. Combinations\bin\Debug\netcoreapp3.1\03. Combinations.runtimeconfig.json
+D:\C# Basic Programing Cours\Nested Loops - Lab\03. Combinations\bin\Debug\netcoreapp3.1\03. Combinations.runtimeconfig.dev.json
+D:\C# Basic Programing Cours\Nested Loops - Lab\03. Combinations\bin\Debug\netcoreapp3.1\03. Combinations.dll
+D:\C# Basic Programing Cours\Nested Loops - Lab\03. Combinations\bin\Debug\netcoreapp3.1\03. Combinations.pdb
+D:\C# Basic Programing Cours\Nested Loops - Lab\03. Combinations\obj\Debug\netcoreapp3.1\03. Combinations.csproj.AssemblyReference.cache
+D:\C# Basic Programing Cours\Nested Loops - Lab\03. Combinations\obj\Debug\netcoreapp3.1\03. Combinations.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Basic Programing Cours\Nested Loops - Lab\03. Combinations\obj\Debug\netcoreapp3.1\03. Combinations.AssemblyInfoInputs.cache
+D:\C# Basic Programing Cours\Nested Loops - Lab\03. Combinations\obj\Debug\netcoreapp3.1\03. Combinations.AssemblyInfo.cs
+D:\C# Basic Programing Cours\Nested Loops - Lab\03. Combinations\obj\Debug\netcoreapp3.1\03. Combinations.csproj.CoreCompileInputs.cache
+D:\C# Basic Programing Cours\Nested Loops - Lab\03. Combinations\obj\Debug\netcoreapp3.1\03. Combinations.dll
+D:\C# Basic Programing Cours\Nested Loops - Lab\03. Combinations\obj\Debug\netcoreapp3.1\03. Combinations.pdb
+D:\C# Basic Programing Cours\Nested Loops - Lab\03. Combinations\obj\Debug\netcoreapp3.1\03. Combinations.genruntimeconfig.cache
